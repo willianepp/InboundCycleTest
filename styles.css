@@ -316,7 +316,7 @@ footer img {
         position: absolute;
         width: 360px;
         top: 343px;
-        left: 17px;
+
     }
 
     .subtitle {
@@ -339,9 +339,9 @@ footer img {
     .message-bottom {
         position: absolute;
         width: 340px;
-        top: 623px;
+        top: 622px;
+        left: 26px;
         text-align: center;
-        left: 17px;
         font-size: 14px;
     }
 
